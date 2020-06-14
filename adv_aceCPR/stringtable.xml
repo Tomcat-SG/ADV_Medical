@@ -301,10 +301,12 @@
 		<Key ID="STR_ADV_ACECPR_MedicAED">
 			<Original>Allow AED</Original>
 			<English>Allow AED</English>
+			<Spanish>Permitir DAE</Spanish>
 		</Key>
 		<Key ID="STR_ADV_ACECPR_MedicAED_Description">
 			<Original>Training level required to use an AED.</Original>
 			<English>Training level required to use an AED.</English>
+			<Spanish>Se necesita un nivel de formación para usar el DAE</Spanish>
 		</Key>
 	</Package>
 </Project>
